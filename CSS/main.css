@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face 
+{
+	font-family: medium;
+	src: url("../Font/Montserrat-Medium.ttf");
+}
+@font-face 
+{
+	font-family: regular;
+	src: url("../Font/Montserrat-Regular.ttf");
+}
+@font-face 
+{
+	font-family: bold;
+	src: url("../Font/Montserrat-Bold.ttf");
+}
+@font-face 
+{
+	font-family: head;
+	src: url("../Font/SVN-Sage 2.otf");
+}
+
+
+
+
+.banner-tudien
+{width: 100vh;
+height: 159px;
+background: #F8F8F8;}
+	.tudien
+	{height: 159px;}
+	.text1
+	{font-family: head;
+	padding: 10px;}
+	.text2
+	{font-family: regular;}
+	.text3
+	{font-family: bold;
+	font-size: 2.5rem;}
+
+.body
+{padding: 50px 0px;}
+	.btn
+	{border-radius: 100%!important;
+	background: black!important;
+	justify-content: center;
+	display: flex;
+	padding: 0px!important;
+	width: 25px;
+	height: 25px;}
+	.fa-plus 
+	{color: white;
+	position: relative;}
+	.text4 {font-family: medium; font-size: 1.5rem;}
+	.text5 {font-family: regular;}
+.A0 {padding: 0px 0px 50px;}
+	.A1 {padding: 0px 0px 20px;}
+
+.fa-minus {color: white;
+			position: relative;}
+
+
